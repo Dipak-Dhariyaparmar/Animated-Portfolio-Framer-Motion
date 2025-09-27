@@ -1,3 +1,5 @@
+// This component is related to cursor relateds
+
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 
