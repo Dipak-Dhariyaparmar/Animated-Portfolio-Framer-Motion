@@ -1,4 +1,4 @@
-// This component is related to cursor relateds
+// This component is related to cursor related
 
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
